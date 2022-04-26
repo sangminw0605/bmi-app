@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/sangminw0605/bmi-app/issues"
   },
-  "homepage": "https://github.com/sangminw0605/bmi-app#readme"
+  "homepage": "https://github.com/sangminw0605/bmi-app#readme",
+  "dependencies": {
+    "express": "^4.18.0"
+  }
 }
